@@ -38,7 +38,7 @@ console.log("\n")
     [4] \u2122  ™
 
     Dan masih banyak lagi, untuk melihatnya lihat di:
-
+    https://en.wikipedia.org/wiki/List_of_Unicode_characters
 
 
 */
