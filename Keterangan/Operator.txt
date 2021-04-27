@@ -1,0 +1,37 @@
+**OPERATOR DALAM PEMOGRAMAN**
+
+Operator adalah simbol atau tanda yang jika diletakkan pada dua buah operand (data) dapat menghasilkan sebuah hasil,
+operator berupa simbol yang digunakan untuk menyusun suatu ekspresi dengan melibatkan satu atau beberapa operand.
+
+
+Dalam operator ada:
+
+**BINARY**
+-Aritmatika
+-Penugasan
+-Perbandingan
+-Logika
+-String
+
+**TERNARY**
+-Kondisional
+-Typeof
+
+
+Keterangan:
+
+Binary: Biner, bilangan yang terdiri dari 0 dan 1
+
+    Dalam matematika berarti penomoran yang berbasis dua misalnya menggunakan angka nol dan satu, atau on dan off. Data ini merupakan inti dari instruksi-instruksi mesin komputer dan perangkat berbasis digital lainnya. Data ini dibuat sedemikian rupa melalui boolean algebra atau aljabar boolean, sebagai dasar instruksi yang dimengerti oleh mesin.
+Dalam format file, adalah berupa file yang berbentuk format apapun untuk data digital yang disusun berdasarkan kode bit dan bukan merupakan data yang bisa dicetak langsung (printable text). Istilah ini kadangkala disebut juga dengan machine code. Semua data digital berbasis binary ini.
+Di dalam pemrograman, binary merupakan deskripsi dari operator yang diambil dari dua argumen.Library
+
+Ternery: 
+
+    Dalam matematika, operasi ternary adalah operasi n-ary dengan n = 3.
+Operasi ternary pada himpunan A mengambil setiap tiga elemen A dan menggabungkannya untuk membentuk elemen tunggal A.
+Dalam ilmu komputer, operator ternary adalah operator yang mengambil tiga argumen.
+
+Sumber:
+https://maya08.wordpress.com/pengertian-binary-dan-library/
+https://en.wikipedia.org/wiki/Ternary_operation
