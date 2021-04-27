@@ -6,8 +6,9 @@ Dalam javascript ada data tipe yaitu
 4. String = value("asiap santuy", 'asiap santuy', (a,b,c,d,e,f,dst.)): Membuat karakter
 5. Integer atau Number = value(1,2,3,4,5,dst.): bilangan bulat
 6. Float = value(1/2, 3/4, 5/7, 6/8, dst.): bilangan pecahan
-7. Object = value({"Hello World", True, False, 4, 1/2, 1.5}, ["Hello World", True, False, 4, 1/2, 1.5]): List/Daftar
-8. Symbol = value
+7. Object = value(["Hello World", True, False, 4, 1/2, 1.5]): List/Daftar
+8. Symbol = value(@#$!)
+9. NaN = value(NaN): Not a Number
 
 
 Keterangan:
@@ -34,6 +35,9 @@ Tiap item (yang lebih dikenal dengan nama variabel) disebut dengan property, dan
 
 8. Tipe data Symbol diperkenalkan oleh ES6, symbol merupakan tipe data primitive yang bersifat immutable(tidak dapat berubah).
 Setiap tipe data symbol akan mengembalikan dengan nilai Symbol() karena penggunaan tipe data ini menggunakan fungsi Symbol()
+
+9. Tipe data NaN adalah untuk Mendefiniskan apakah nilai bukan angka jika iya maka muncul NaN
+
 
 Catatan:
 "Semua pengertian dari keterangan bersumber dari saya (YadBro Channel) dan:"
