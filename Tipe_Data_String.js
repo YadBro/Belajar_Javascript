@@ -31,6 +31,15 @@ console.log("\n")
     [7] \b  <-Hasil: \b (Menghapus / backspace)
     [8] \uxxxx <-Hasil: unicode
 
+    -----UNICODE-----
+    [1] \u00A9  ©
+    [2] \u00AE  ®
+    [3] \u00B1  ±
+    [4] \u2122  ™
+
+    Dan masih banyak lagi, untuk melihatnya lihat di:
+
+
 
 */
 
@@ -43,10 +52,15 @@ console.log("ini adalah menambahkan garis miring (5\\6)")
 console.log("ini adalah new line\\baris baru \n hey aku ada di bawah!")
 console.log("ini adalah jarak \t jauh")
 console.log("ini adalah jarak \b dekat")
+console.log("ini adalah simbol karakter copyright \u00A9")
+console.log("ini adalah simbol karakter r \u00AE")
+console.log("ini adalah simbol karakter kurang lebih \u00B1")
+console.log("ini adalah simbol karakter tm \u2122")
+
 
 // Memasukkan variable ke tengah tengah character tanpa penghubung +
 
-// syarat penggunaan menggunakan ``, $, dan {}
+// syarat penggunaan menggunakan ``(akses kubur), $(dollar), dan {}(kurung kurawal)
 
 
 console.log(`ini contoh string 1= ${contohString1}`)
