@@ -1,0 +1,42 @@
+Dalam javascript ada data tipe yaitu
+
+1. Undefined = value(undefined):    tidak terdefinisi (variable yang tidak ada nilai)
+2. Null = value(null):  belum valid (kata khusus di javascript)
+3. Boolean = value(True, False): Mendefiniskan true dan false 
+4. String = value("asiap santuy", 'asiap santuy', (a,b,c,d,e,f,dst.)): Membuat karakter
+5. Integer atau Number = value(1,2,3,4,5,dst.): bilangan bulat
+6. Float = value(1/2, 3/4, 5/7, 6/8, dst.): bilangan pecahan
+7. Object = value({"Hello World", True, False, 4, 1/2, 1.5}, ["Hello World", True, False, 4, 1/2, 1.5]): List/Daftar
+8. Symbol = value
+
+
+Keterangan:
+
+1. Tipe data Undefined adalah tipe data spesial yang hanya memiliki nilai undefined.
+Undefined bisa tercipta pada suatu variable yang tidak memiliki nilai, dimana variable sudah dideklarasi namun tidak ada nilai didalamnya atau tidak di inisialisasi.
+Ouput dari kode diatas akan menghasilkan seperti gambar dibawah ini
+
+2. Tipe data Null merupakan reserved word (kata khusus) di JavaScript sehingga tidak bisa digunakan sebagai nama variabel.
+Tipe data 'null' biasanya digunakan untuk menggantikan nilai sesuatu belum ada namun sudah diekspektasikan akan ada.
+Biasanya saat deklarasi dan assigning variabel tersebut diberi nilai null.
+
+3. Tipe data Boolean adalah tipe data yang hanya memiliki 2 nilai yaitu TRUE (benar) dan FALSE (salah).
+Tipe data boolean sering digunakan sebagai operator dalam membuat alur logika program.
+Di dalam Javascript suatu tipe data dapat berubah sifatnya menjadi tipe data lain, tergantung kapan digunakan.
+
+4. Tipe Data String adalah tipe data yang digunakan untuk menyimpan barisan karakter.
+
+5. Tipe Data Integer adalah tipe data yang terdiri dari angka bulat (tidak mengandung nilai pecahan atau nilai desimal).
+Nilai ini bisa berbentuk angka positif maupun negatif, contohnya 1, 2, 6, -44, 20000, atau 128730123.
+
+7. Tipe data Object adalah sekumpulan list dari tipe data primitif (terkadang juga tipe data reference) yang menyimpan nilai dengan konsep berpasangan name-value.
+Tiap item (yang lebih dikenal dengan nama variabel) disebut dengan property, dan function disebut dengan method.
+
+8. Tipe data Symbol diperkenalkan oleh ES6, symbol merupakan tipe data primitive yang bersifat immutable(tidak dapat berubah).
+Setiap tipe data symbol akan mengembalikan dengan nilai Symbol() karena penggunaan tipe data ini menggunakan fungsi Symbol()
+
+Catatan:
+"Semua pengertian dari keterangan bersumber dari saya (YadBro Channel) dan:"
+https://medium.com
+https://id.wikipedia.org
+https://www.researchgate.net
