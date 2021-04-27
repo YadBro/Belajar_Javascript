@@ -2,7 +2,7 @@ Dalam javascript ada data tipe yaitu
 
 1. Undefined = value(undefined):    tidak terdefinisi (variable yang tidak ada nilai)
 2. Null = value(null):  belum valid (kata khusus di javascript)
-3. Boolean = value(True, False): Mendefiniskan true dan false 
+3. Boolean = value(true, false): Mendefiniskan true dan false 
 4. String = value("asiap santuy", 'asiap santuy', (a,b,c,d,e,f,dst.)): Membuat karakter
 5. Integer atau Number = value(1,2,3,4,5,dst.): bilangan bulat
 6. Float = value(1/2, 3/4, 5/7, 6/8, dst.): bilangan pecahan
