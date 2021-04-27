@@ -1,2 +1,2 @@
-# Belajar_Javascript
+# Belajar Javascript
 Yok belajar yok
