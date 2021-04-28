@@ -12,4 +12,5 @@ var gabunganString_dengan_Angka = "Angkanya adalah= "+ 3;
 console.log(gabunganString)
 console.log(gabunganString_dengan_Angka)
 
+
 // Untuk menggabungkan string dengan apapun itu gunakan simbol tambah
