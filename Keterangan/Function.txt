@@ -1,0 +1,37 @@
+Dalam javscript ada yang yang namanya function declaration dan juga function expression
+
+
+
+
+Function Declaration:
+
+function identifier(parameterlist opt){
+    FunctionBody
+}
+
+
+Function expression:
+
+function identifier opt(parameterlist opt){
+    FunctionBody
+}
+
+
+**CONTOH FUNCTION DECLARATION**
+
+function tampilpesan(nama){
+    alert("Halo "+nama);
+}
+
+
+**CONTOH FUNCTION EXPRESSION**
+
+var TampilPesan = function tampilpesan(nama){
+    alert("Halo "+nama);
+}
+
+
+simplenya:
+Function Declaration adalah function yang tidak di simpan dalam variable.
+    Sedangkan,
+Function Expression adalah function yang simpan dalam variable.

@@ -1,0 +1,25 @@
+Apa itu array:
+
+
+--- Secara Umum ---
+Array secara umum adalah susunan sistematis dari objek-objek yang serupa.
+
+
+--- Secara Dunia Programming ---
+Array secara programming adalah tipe data yang digunakan untuk mendeskripsikan kumpulan elemen (nilai atau variabel), yang tiap-tiap elemennya memiliki index.
+
+
+--- Menurut Pa Dhika Dosen Unpas ---
+Array  adalah variabel yang lebih sakti. Karena bisa menampung lebih dari satu nilai(string,int,function,,boolean,dsb).
+
+
+
+Array sebenarnya ada di bahasa pemograman lain cuman konsep nya berbeda beda ada bahasa pemograman yang membuat array ini menjadi tipe data ada juga yang menjadikan sebagai struktur data!.
+
+
+ARRAY PASTI PUNYA INDEX!!!
+
+index awal di awali dengan 0
+
+contoh:
+var array = ["Hello World", 10, true, false];
