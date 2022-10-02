@@ -1,0 +1,1 @@
+### This is the result of learning from [javascript.info](https://javascript.info/object).
