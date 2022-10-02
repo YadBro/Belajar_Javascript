@@ -85,3 +85,18 @@ console.log(part17);
 // Removes whitespace but removes whitespace only from the end of a string.
 let part18 = str4.trimEnd();
 console.log(part18);
+
+// Padding
+
+let text3 = '5';
+let padded1 = text3.padStart(4, 'x'); // xxx5
+console.log(padded1);
+
+let padded2 = text3.padStart(4, '0'); // 0005
+console.log(padded2);
+
+let padded3 = text3.padEnd(4, 'x'); // 5xxx
+console.log(padded3);
+
+let padded4 = text3.padEnd(4, '0'); // 5000
+console.log(padded4);
