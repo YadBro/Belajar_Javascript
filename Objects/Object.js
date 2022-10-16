@@ -80,3 +80,35 @@ for (let key in user1) {
   console.info(user1[key]); // value
   console.info(key + ": " + user1[key]);
 }
+
+
+const user2 = ['yadi', 12, 'smk'];
+
+// Iterable used for of (STRINGS, ARRAY)
+// Enumerable used for in (OBJECT)
+
+let user3 = [
+  {
+    name: 'Yadi',
+    class: 12,
+  },
+  {
+    name: 'Apriyadi',
+    class: 12,
+  },
+]
+
+console.log("============= USER2");
+for (const val of user2) {
+  console.log(val);
+}
+console.log("============= USER2");
+console.log("\n\n============= USER");
+for (const [key, val] of Object.entries(user3)) {
+  console.log(val.name);
+}
+console.log("============= USER3");
+
+for (const val in user) {
+  console.log(user[val])
+}
